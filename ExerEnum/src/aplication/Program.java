@@ -13,6 +13,7 @@ import EntitiesEnum.WorkerLevel;
 
 public class Program {
 	public static void main(String[] args) throws ParseException {
+		//Adicionando comentários
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		SimpleDateFormat formato = new SimpleDateFormat("dd/MM/yyyy");
